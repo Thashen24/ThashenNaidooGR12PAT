@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jedia\\source\\repos\\ThashenNaidooGrade12PAT\\ThashenNaidooGrade12PAT\\wwwroot\\images\\F1.jpg",
+      "PackagePath": "staticwebassets\\images\\F1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jedia\\source\\repos\\ThashenNaidooGrade12PAT\\ThashenNaidooGrade12PAT\\wwwroot\\pages\\about.html",
+      "PackagePath": "staticwebassets\\pages\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\jedia\\source\\repos\\ThashenNaidooGrade12PAT\\ThashenNaidooGrade12PAT\\wwwroot\\pages\\contact.html",
+      "PackagePath": "staticwebassets\\pages\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\jedia\\source\\repos\\ThashenNaidooGrade12PAT\\ThashenNaidooGrade12PAT\\wwwroot\\pages\\index.html",
+      "PackagePath": "staticwebassets\\pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jedia\\source\\repos\\ThashenNaidooGrade12PAT\\ThashenNaidooGrade12PAT\\wwwroot\\pages\\style.css",
+      "PackagePath": "staticwebassets\\pages\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ThashenNaidooGrade12PAT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ThashenNaidooGrade12PAT.props",
+      "PackagePath": "build\\ThashenNaidooGrade12PAT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ThashenNaidooGrade12PAT.props",
+      "PackagePath": "buildMultiTargeting\\ThashenNaidooGrade12PAT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ThashenNaidooGrade12PAT.props",
+      "PackagePath": "buildTransitive\\ThashenNaidooGrade12PAT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

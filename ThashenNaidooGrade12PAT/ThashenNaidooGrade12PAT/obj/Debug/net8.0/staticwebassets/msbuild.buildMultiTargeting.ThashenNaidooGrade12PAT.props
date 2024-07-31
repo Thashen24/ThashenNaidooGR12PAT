@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThashenNaidooGrade12PAT.props" />
+</Project>

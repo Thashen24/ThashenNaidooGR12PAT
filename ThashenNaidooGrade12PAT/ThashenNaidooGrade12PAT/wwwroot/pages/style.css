@@ -1,0 +1,110 @@
+﻿/* style.css */
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 0;
+    text-align: center;
+}
+
+.header-image {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+    nav ul li {
+        display: inline;
+        margin: 0 1rem;
+    }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+    section h3 {
+        color: #333;
+    }
+
+    section p, section ul, section ol {
+        margin: 0.5rem 0;
+    }
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+    .cta-button:hover {
+        background-color: #0056b3;
+    }
+
+/* style.css */
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+    section h3 {
+        color: #333;
+    }
+
+    section p, section ul, section ol {
+        margin: 0.5rem 0;
+    }
+
+.team-member {
+    margin-bottom: 1rem;
+}
+
+    .team-member h4 {
+        margin: 0;
+        color: #007bff;
+    }
+
+.gallery {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.gallery-img {
+    width: 30%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
